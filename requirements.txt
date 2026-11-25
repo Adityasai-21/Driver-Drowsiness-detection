@@ -1,7 +1,7 @@
-numpy==1.26.4
-dlib==19.24.2
-pygame==2.5.2
-imutils==0.5.4
-opencv-python-headless==4.8.0.76
-scipy==1.11.4
 streamlit
+numpy==1.26.4
+scipy==1.11.4
+opencv-python-headless==4.9.0.80
+imutils==0.5.4
+pygame==2.5.2
+dlib==19.24.2
